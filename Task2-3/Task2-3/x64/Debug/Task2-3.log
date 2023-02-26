@@ -1,0 +1,12 @@
+﻿  Figure.cpp
+C:\Users\79042\Desktop\программа\Task2-3\Task2-3\Figure.cpp(8,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\79042\Desktop\программа\Task2-3\Task2-3\Figure.cpp(9,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\79042\Desktop\программа\Task2-3\Task2-3\Figure.cpp(10,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\79042\Desktop\программа\Task2-3\Task2-3\Figure.cpp(11,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\79042\Desktop\программа\Task2-3\Task2-3\Figure.cpp(12,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\79042\Desktop\программа\Task2-3\Task2-3\Figure.cpp(13,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\79042\Desktop\программа\Task2-3\Task2-3\Figure.cpp(14,64): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\79042\Desktop\программа\Task2-3\Task2-3\Figure.cpp(15,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+  Создание кода...
+  Task2-3.vcxproj -> C:\Users\79042\Desktop\программа\Task2-3\x64\Debug\Task2-3.exe
